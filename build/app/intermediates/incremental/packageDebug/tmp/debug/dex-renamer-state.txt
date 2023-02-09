@@ -1,4 +1,4 @@
-#Tue Feb 07 16:53:52 COT 2023
-base.0=/home/javier/StudioProjects/fourth_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Wed Feb 08 18:31:30 COT 2023
+base.0=/home/javier/StudioProjects/Semana_-02-Github/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
